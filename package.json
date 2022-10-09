@@ -1,7 +1,0 @@
-{
-  "name": "renovate",
-  "description": "Automated dependency updates. Flexible so you don't need to be.",
-  "dependencies": {
-    "xmldoc": "1.1.0"
-  },
-}
