@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "javascript":{
-  "ignorePaths": ["package.json"],
+  "python":{
+  "ignorePaths": ["requirements.txt"],
   },
    "regexManagers": [
     {
