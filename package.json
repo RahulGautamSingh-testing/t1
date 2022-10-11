@@ -1,0 +1,8 @@
+{
+  "name": "renovate",
+  "description": "Automated dependency updates. Flexible so you don't need to be.",
+  "version": "0.0.0-semantic-release",
+  "devDependencies": {
+    "jest": "29.0.0"
+  }
+}
